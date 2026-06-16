@@ -3,23 +3,23 @@
 A simple JavaScript calculator that intentionally gives wrong answers sometimes.
 
 ## Features
- Performs basic arithmetic operations.
- Generates correct results most of the time.
+ Performs basic arithmetic operations.<br>
+ Generates correct results most of the time.<br>
  Occasionally changes operators and gives incorrect results to simulate a faulty calculator.
 
 ## Technologies Used
- HTML
+ HTML <br>
  JavaScript
 
 ## How It Works
- User enters two numbers and an operator.
- A random number is generated.
- 90% of the time, the calculator shows the correct result.
+ User enters two numbers and an operator.<br>
+ A random number is generated.<br>
+ 90% of the time, the calculator shows the correct result.<br>
  10% of the time, the operator is changed:
-+ -> -
-* -> +
-- -> /
-/ -> **
++ changed to -
+* changed to +
+- changed to /
+/ changed to **
 
 ## Example
 
