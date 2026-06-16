@@ -15,11 +15,11 @@ A simple JavaScript calculator that intentionally gives wrong answers sometimes.
  User enters two numbers and an operator.<br>
  A random number is generated.<br>
  90% of the time, the calculator shows the correct result.<br>
- 10% of the time, the operator is changed:
-`+` changed to `-`
-`*` changed to `+`
-`-` changed to `/`
-`/` changed to `**`
+ 10% of the time, the operator is changed: <br>
+`+` changed to `-` <br>
+`*` changed to `+` <br>
+`-` changed to `/` <br>
+`/` changed to `**` 
 
 ## Example
 
