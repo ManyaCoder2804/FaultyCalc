@@ -16,10 +16,10 @@ A simple JavaScript calculator that intentionally gives wrong answers sometimes.
  A random number is generated.<br>
  90% of the time, the calculator shows the correct result.<br>
  10% of the time, the operator is changed:
-+ changed to -
-* changed to +
-- changed to /
-/ changed to **
+`+` changed to `-`
+`*` changed to `+`
+`-` changed to `/`
+`/` changed to `**`
 
 ## Example
 
